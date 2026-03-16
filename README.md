@@ -84,35 +84,7 @@ Split Snap is a fast, lightweight web app that makes splitting expenses between 
 
 ---
 
-## 🚀 Getting Started
 
-### Prerequisites
-
-- Node.js `>=18`
-- npm or yarn
-
-### Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/split-snap.git
-cd split-snap
-
-# Install dependencies
-npm install
-```
-
-### Development
-
-```bash
-npm run dev
-```
-
-Open # 📸 Split Snap
-
-> Split bills instantly — snap, divide, done.
-
-Split Snap is a fast, lightweight web app that makes splitting expenses between friends effortless. No accounts, no fuss — just add people, add items, and get a clean breakdown of who owes what.
 
 ---
 
