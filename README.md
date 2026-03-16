@@ -75,47 +75,7 @@ Split Snap is a fast, lightweight web app that makes splitting expenses between 
 
 ---
 
-## 🚀 Getting Started
 
-### Prerequisites
-
-- Node.js `>=18`
-- npm or yarn
-
-### Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/split-snap.git
-cd split-snap
-
-# Install dependencies
-npm install
-```
-
-### Development
-
-```bash
-npm run dev
-```
-
-Open https://splitsnap-app.netlify.app/ in your browser.
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-Output will be in the `dist/` folder.
-
-### Preview Production Build
-
-```bash
-npm run preview
-```
-
----
 
 ## 📦 Deployment
 
