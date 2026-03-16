@@ -62,42 +62,7 @@ Split Snap is a fast, lightweight web app that makes splitting expenses between 
 
 ---
 
-## ✨ Features
 
-- ➕ Add multiple people to a split
-- 🧾 Assign items or amounts per person
-- ⚡ Instant calculation of each person's share
-- 💾 Persistent state across sessions
-- 📱 Mobile-friendly UI
-- 🚀 Deployable on Netlify or Vercel
-
----
-
-## 🛠️ Tech Stack
-
-| Tool | Purpose |
-|------|---------|
-| [Vite](https://vitejs.dev/) | Build tool & dev server |
-| Vanilla JS / React | Frontend |
-| `state.json` | Local state persistence |
-| Netlify / Vercel | Deployment |
-
----
-
-
-
----
-
-## ✨ Features
-
-- ➕ Add multiple people to a split
-- 🧾 Assign items or amounts per person
-- ⚡ Instant calculation of each person's share
-- 💾 Persistent state across sessions
-- 📱 Mobile-friendly UI
-- 🚀 Deployable on Netlify or Vercel
-
----
 
 ## 🛠️ Tech Stack
 
