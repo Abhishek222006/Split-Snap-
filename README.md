@@ -54,7 +54,7 @@ npm install
 npm run dev
 ```
 
-Open # 📸 Split Snap
+Open # 📸 Split Snap   https://splitsnap-app.netlify.app/
 
 > Split bills instantly — snap, divide, done.
 
@@ -64,16 +64,9 @@ Split Snap is a fast, lightweight web app that makes splitting expenses between 
 
 
 
-## 🛠️ Tech Stack
 
-| Tool | Purpose |
-|------|---------|
-| [Vite](https://vitejs.dev/) | Build tool & dev server |
-| Vanilla JS / React | Frontend |
-| `state.json` | Local state persistence |
-| Netlify / Vercel | Deployment |
 
----
+
 
 
 
